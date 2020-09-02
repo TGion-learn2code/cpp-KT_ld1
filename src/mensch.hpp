@@ -24,7 +24,7 @@ public:
 	///
 	std::ostream& status_drucken (std::ostream& out);
 
-	/// @brief Prints all information about Mensch
+	/// @brief Extract the name of Mensch
 	///
 	/// @return std::string: name of Mensch
         inline std::string getName() {return name_;}

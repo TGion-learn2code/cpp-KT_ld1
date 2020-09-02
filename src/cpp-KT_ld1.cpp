@@ -12,8 +12,6 @@
 
 int main() {
 
-
-
 	Mensch marcus {"Marcus", 29, 75.8, 1.78};
 	Mensch tobias {"Tobias", 39, 79.1, 1.81};
 	Mensch andrea {"Andrea", 55, 55.1, 1.65};
